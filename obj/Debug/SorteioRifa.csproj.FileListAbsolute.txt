@@ -1,0 +1,7 @@
+D:\Scripts C#\SorteioRifa\SorteioRifa\bin\Debug\SorteioRifa.exe.config
+D:\Scripts C#\SorteioRifa\SorteioRifa\bin\Debug\SorteioRifa.exe
+D:\Scripts C#\SorteioRifa\SorteioRifa\bin\Debug\SorteioRifa.pdb
+D:\Scripts C#\SorteioRifa\SorteioRifa\obj\Debug\SorteioRifa.csprojAssemblyReference.cache
+D:\Scripts C#\SorteioRifa\SorteioRifa\obj\Debug\SorteioRifa.csproj.CoreCompileInputs.cache
+D:\Scripts C#\SorteioRifa\SorteioRifa\obj\Debug\SorteioRifa.exe
+D:\Scripts C#\SorteioRifa\SorteioRifa\obj\Debug\SorteioRifa.pdb
